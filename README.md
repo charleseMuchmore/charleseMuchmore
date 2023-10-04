@@ -6,13 +6,16 @@
 
 My Languages:
 - JavaScript
-- HTML
-- CSS
+- Python
 - C#
-- Python 
+- Html
+- Css
 
 Other Skills:
 - GitHub/git
+- Bootstrap
+- React
+- ASP.NET MVC
 
 <!---
 charleseMuchmore/charleseMuchmore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
