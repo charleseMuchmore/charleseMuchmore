@@ -16,6 +16,10 @@ Other Skills:
 - Bootstrap
 - React
 - ASP.NET MVC
+- MySql
+- Node/NPM
+- Tailwind CSS
+- Visual Studio
 
 <!---
 charleseMuchmore/charleseMuchmore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
