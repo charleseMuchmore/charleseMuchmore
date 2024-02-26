@@ -8,6 +8,7 @@ My Languages:
 - JavaScript
 - Python
 - C#
+- SQL
 - Html
 - Css
 
