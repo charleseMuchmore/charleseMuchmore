@@ -21,16 +21,16 @@ Other Languages:
 - Css
 
 Frameworks and Libraries:
--React
--Node/NPM
--Bootstrap
--ASP.NET Core MVC
+- React
+- Node/NPM
+- Bootstrap
+- ASP.NET Core MVC
 
 Development Tools:
--Git/GitHub
--Jira
--MySql
--Visual Studio
+- Git/GitHub
+- Jira
+- MySql
+- Visual Studio
 
 
 
