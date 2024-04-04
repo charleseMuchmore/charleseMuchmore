@@ -1,26 +1,37 @@
-- 👋 Hi, I’m @charleseMuchmore
-- 👀 I’m interested in Programming and Music
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m interested in collaborating, but my schedule is currently filled
-- 📫 You can reach me via email, at charlymuchmore@gmail.com
+👋 Hi there, I’m @charleseMuchmore 
 
-My Languages:
+💪 I do Full Stack Web Development
+
+📫 Hit me up via..
+  - email: charlymuchmore@gmail.com
+  - linkedin: https://www.linkedin.com/in/muchmorec/
+
+🦉 I have experience with...
+
+Programming Languages:
 - JavaScript
 - Python
 - C#
+
+Other Languages:
 - SQL
 - Html
 - Css
 
-Other Skills:
-- GitHub/git
-- Bootstrap
-- React
-- ASP.NET MVC
-- MySql
-- Node/NPM
-- Tailwind CSS
-- Visual Studio
+Frameworks and Libraries:
+-React
+-Node/NPM
+-Bootstrap
+-ASP.NET Core MVC
+
+Development Tools:
+-Git/GitHub
+-Jira
+-MySql
+-Visual Studio
+
+
+
 
 <!---
 charleseMuchmore/charleseMuchmore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
