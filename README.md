@@ -11,7 +11,7 @@
 🦉 I have experience with...
 
 Programming Languages:
-- JavaScript
+- JavaScript/TypeScript
 - Python
 - C#
 
@@ -25,12 +25,16 @@ Frameworks and Libraries:
 - Node/NPM
 - Bootstrap
 - ASP.NET Core MVC
+- Svelte/Svelte Kit
 
 Development Tools:
 - Git/GitHub
 - Jira
+- Trello
 - MySql
+- Docker
 - Visual Studio
+- VSCode
 
 
 
